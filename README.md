@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @gaurav0910 
+- 👋 Hi, I’m Gaurav Anand.
 - 👀 I’m interested in learning more about Data Science and Machine Learning.
-- 🌱 I’m currently learning Data analytics.
--
+- 🌱 I’m currently learning Data Analytics.
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me gauravana3@gmail.com
 
