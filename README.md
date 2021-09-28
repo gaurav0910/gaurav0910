@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Gaurav Anand.
-- 👀 I’m interested in learning more about Data Science and Machine Learning.
-- 🌱 I’m currently learning Data Analytics.
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me gauravana3@gmail.com
+- Hi, I’m Gaurav Anand.
+- I’m interested in learning more about Data Science and Machine Learning.
+- I’m currently learning Data Analytics.
+- I’m looking to collaborate 
+- How to reach me gauravana3@gmail.com
 -    In gaurav0910 repository my analysis project and work is added. I took the dataset from the internet and did EDA of the data.
 
 <!---
